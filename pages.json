@@ -1,0 +1,489 @@
+{
+	"pages": [
+
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "Tree Bank",
+				"navigationStyle": "custom"
+				// "enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/property/property",
+			"style": {
+				"navigationBarTitleText": "资产",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/advisory/advisory",
+			"style": {
+				"navigationBarTitleText": "资讯",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/advisory/college",
+			"style": {
+				"navigationBarTitleText": "学院",
+				"navigationStyle": "custom"
+			}
+		},
+		 {
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/chargeCoin",
+			"style": {
+				"navigationBarTitleText": "充值",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/chargeCoinRecord",
+			"style": {
+				"navigationBarTitleText": "充值记录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/advisory/newsList",
+			"style": {
+				"navigationBarTitleText": "新闻咨询",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/charge",
+			"style": {
+				"navigationBarTitleText": "充值",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/toCharge",
+			"style": {
+				"navigationBarTitleText": "我要充币",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/gamesLobby",
+			"style": {
+				"navigationBarTitleText": "游戏大厅",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/flash",
+			"style": {
+				"navigationBarTitleText": "闪兑",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/flashDetail",
+			"style": {
+				"navigationBarTitleText": "闪兑明细",
+				"navigationStyle": "custom"
+			}
+		},
+		 {
+			"path": "pages/user/set",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/address",
+			"style": {
+				"navigationBarTitleText": "收货地址",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/addressManage",
+			"style": {
+				"navigationBarTitleText": "添加收货地址",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/digitalWallet",
+			"style": {
+				"navigationBarTitleText": "数字钱包",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/digitalWalletManage",
+			"style": {
+				"navigationBarTitleText": "添加数字钱包地址",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/digitalWalletManage",
+			"style": {
+				"navigationBarTitleText": "添加数字钱包地址",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/resetLoginPassword",
+			"style": {
+				"navigationBarTitleText": "重置登录密码",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/verified",
+			"style": {
+				"navigationBarTitleText": "实名认证",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/download",
+			"style": {
+				"navigationBarTitleText": "下载App",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/register",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/myScore",
+			"style": {
+				"navigationBarTitleText": "我的资产",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/score",
+			"style": {
+				"navigationBarTitleText": "积分",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/pointTransform",
+			"style": {
+				"navigationBarTitleText": "Tree Bank积分",//转成xx币
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/coinTransform",
+			"style": {
+				"navigationBarTitleText": "Tree Bank币",//转成xx积分
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/chargeCoin",
+			"style": {
+				"navigationBarTitleText": "用户充币",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/chargeCoinRecord",
+			"style": {
+				"navigationBarTitleText": "充币记录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/withdrawCoin",
+			"style": {
+				"navigationBarTitleText": "提币",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/withdrawCoinRecord",
+			"style": {
+				"navigationBarTitleText": "提币记录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/gameChargeRecord",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/withdrawCoin",
+			"style": {
+				"navigationBarTitleText": "USDT提现",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/withdrawCoinRecord",
+			"style": {
+				"navigationBarTitleText": "USDT提现记录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/coinTransferIntoInterest",
+			"style": {
+				"navigationBarTitleText": "转入生息",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/TransferIntoInterest",
+			"style": {
+				"navigationBarTitleText": "转入生息",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/player/TransferIntoInterest",
+			"style": {
+				"navigationBarTitleText": "转入生息",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/scoreDetail",
+			"style": {
+				"navigationBarTitleText": "积分明细",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/deposit/scoreInterestDetail",
+			"style": {
+				"navigationBarTitleText": "定存积分利息明细",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/deposit/scoreDetail",
+			"style": {
+				"navigationBarTitleText": "定存明细",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/deposit/transferOut",
+			"style": {
+				"navigationBarTitleText": "转出",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/player/scoreInterestDetail",
+			"style": {
+				"navigationBarTitleText": "玩家合约利息明细",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/player/scoreDetail",
+			"style": {
+				"navigationBarTitleText": "玩家合约明细",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/player/transferOut",
+			"style": {
+				"navigationBarTitleText": "转出",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/bindExchangeAccount",
+			"style": {
+				"navigationBarTitleText": "绑定交易所账号",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/registerExchangeAccount",
+			"style": {
+				"navigationBarTitleText": "注册交易所账号",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/joinVIP",
+			"style": {
+				"navigationBarTitleText": "加入vip",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/inviteFriend",
+			"style": {
+				"navigationBarTitleText": "邀请好友",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/feedback",
+			"style": {
+				"navigationBarTitleText": "意见反馈",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/aboutUs",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/fans/fans",
+			"style": {
+				"navigationBarTitleText": "我的粉丝",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/common/externalLink",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/service",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/common/userRegister",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/contact/contact",
+			"style": {
+				"navigationBarTitleText": "城市合约",
+				"navigationStyle": "custom"
+			}
+		},
+		// 区块链商城
+		{
+			"path": "pages/mall/index",
+			"style": {
+				"navigationBarTitleText": "区块链商城",
+				"navigationStyle": "custom"
+				
+			}
+		},
+		{
+			"path": "pages/mall/confirmOrder",
+			"style": {
+				"navigationBarTitleText": "确认订单",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mall/detail",
+			"style": {
+				"navigationBarTitleText": "商品详情",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mall/list",
+			"style": {
+				"navigationBarTitleText": "商品列表",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mall/myOrder",
+			"style": {
+				"navigationBarTitleText": "我的订单",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mall/orderDetail",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mall/success",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#f8f8f8"
+	}
+	,
+	"tabBar": {
+		"color": "#C0C4CC",
+		"selectedColor": "#080729",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tab-home.png",
+				"selectedIconPath": "static/tab-home-current.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/property/property",
+				"iconPath": "static/tab-cate.png",
+				"selectedIconPath": "static/tab-cate-current.png",
+				"text": "资产"
+			},
+			{
+				"pagePath": "pages/advisory/advisory",
+				"iconPath": "static/tab-cart.png",
+				"selectedIconPath": "static/tab-cart-current.png",
+				"text": "资讯"
+			},
+			{
+				"pagePath": "pages/advisory/college",
+				"iconPath": "static/tab-college.png",
+				"selectedIconPath": "static/tab-college-current.png",
+				"text": "学院"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"iconPath": "static/tab-my.png",
+				"selectedIconPath": "static/tab-my-current.png",
+				"text": "我的"
+			}
+		]
+	}
+}

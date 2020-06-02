@@ -1,0 +1,16 @@
+@mixin verticalCenter {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+@mixin justyfyBetween {
+	display: flex;
+	justify-content: space-between;
+}
+
+@mixin justyfyAround {
+	display: flex;
+	justify-content: space-between;
+}
+$color1:#999;
